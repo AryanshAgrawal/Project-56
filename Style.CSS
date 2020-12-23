@@ -1,0 +1,16 @@
+body
+{
+text-align: center;
+background-color: linear-gradient(#60ebeb 0%, #27ae60 100%);
+background-repeat: no-repeat;
+}
+h1
+{
+text-shadow: 2px 2px #F8BBD0;
+font-size: 20px;
+}
+img
+{
+border-radius: 50%;
+width: 100px
+}
